@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:f:\mutex\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523366404 source:f:\mutex\cproject\typredef.c
+	<stdio.h>
+	<stdlib.h>
+
